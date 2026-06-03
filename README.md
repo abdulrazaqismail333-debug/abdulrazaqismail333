@@ -9,4 +9,4 @@ I want to learn frontend and software engineering best practices, build real-wor
 I would like to build websites, web applications, and solutions that solve real-world problems.
 
 3. What skill do I want to improve?
-I want to improve my problem-solving, debugging, and teamwork skills. 
+I want to improve my problem-solving, debugging, and teamwork skills.
